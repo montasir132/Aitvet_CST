@@ -5,7 +5,7 @@
 # 4. Close() -> Closes the file
 
 file = open("myintro.txt", "w")  # Open the file in write mode
-file.write("Hello, this is a sample text.\n")  # Write content to the file
+file.write("Hello, this is a montasir.\n")  # Write content to the file
 file.write("This is the second line of the text.\n")  # Write another line
 file.close()  # Close the file
 
