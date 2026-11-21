@@ -4,3 +4,5 @@
 <a name="python-2" href="./python_2/Application-development-using-python-assignment/python.pdf"><h3>Python-2(28531)</h3></a>
 <a name="it-support-service" href="./it_support_service"><h3>IT-Support-Service(28533)</h3></a>
 <a name="computer-graphics-design-2" href="./Computer-Graphics-Design-II/graphics.pdf"><h3>Computer Graphics Design-2(28532)</h3></a>
+<a name="Java-programing" href="./Java-programing/"><h3>Java Programming(28541)</h3></a>
+<a name="computer-peripherals-interfacing" href="./Computer-Peripherals-interfacing/Computer-Peripherals-interfacing.pdf"><h3>Computer Peripherals Interfacing(28543)</h3></a>
